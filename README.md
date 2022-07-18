@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @17mayankgaur
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning web technologies
 - 📫 How to reach me 17mayankgaur@gmail.com
 
 <!---
