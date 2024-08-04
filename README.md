@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Gaur</h1>
 <h3 align="center">A passionate  developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+Harnessing the power of technology for a better tomorrow.Engineer, Educator and occasional hero 🦸‍♂️
 
 - 📫 How to reach me **https://www.linkedin.com/in/mayankgaur17/**
 
